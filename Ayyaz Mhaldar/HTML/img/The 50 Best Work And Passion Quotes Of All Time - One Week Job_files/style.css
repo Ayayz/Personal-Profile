@@ -1,0 +1,11 @@
+/*
+Theme Name:     One Week Job
+Theme URI:      http://www.oneweekjob.com
+Description:    Child theme for the Foundation Prototype theme. <strong>Do not delete or remove.</strong>
+Author:         Shawn Johnston
+Author URI:     http://www.shawnjohnston.ca
+Template:       foundation-prototype
+Version:        0.1.0
+*/
+
+@import url(stylesheets/css/main-style.css);

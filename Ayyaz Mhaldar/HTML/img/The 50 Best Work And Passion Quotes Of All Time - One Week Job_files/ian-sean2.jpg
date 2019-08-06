@@ -1,0 +1,292 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!-- Consider adding an manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+
+	<title>Page not found - One Week Job</title>
+	
+	<!-- Mobile viewport optimized: j.mp/bplateviewport -->
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	
+	<!-- Included Foundation CSS Files -->
+	<link rel="stylesheet" href="http://www.oneweekjob.com/wp-content/themes/foundation-prototype/css/foundation.css">
+	<link rel="stylesheet" href="http://www.oneweekjob.com/wp-content/themes/foundation-prototype/css/app.css">
+	<link rel="stylesheet" href="http://www.oneweekjob.com/wp-content/themes/foundation-prototype/css/flexslider.css" type="text/css" media="screen" />
+
+	<link rel="stylesheet" href="http://www.oneweekjob.com/wp-content/themes/one-week/style.css">
+	
+	<!--[if lt IE 9]>
+	<link rel="stylesheet" href="http://www.oneweekjob.com/wp-content/themes/foundation-prototype/css/ie.css">
+	<![endif]-->
+	
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+	<!-- Favicon and Feed -->
+	<link rel="shortcut icon" type="image/png" href="http://www.oneweekjob.com/wp-content/themes/one-week/images/favicon.ico">
+	<link rel="alternate" type="application/rss+xml" title="One Week Job Feed" href="http://www.oneweekjob.com/feed/">
+	
+	<!--  iPhone Web App Home Screen Icon -->
+	<link rel="apple-touch-icon" sizes="72x72" href="http://www.oneweekjob.com/wp-content/themes/foundation-prototype/images/devices/reverie-icon-ipad.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="http://www.oneweekjob.com/wp-content/themes/foundation-prototype/images/devices/reverie-icon-retina.png" />
+	<link rel="apple-touch-icon" href="http://www.oneweekjob.com/wp-content/themes/foundation-prototype/images/devices/reverie-icon.png" />
+	
+	<!-- Enable Startup Image for iOS Home Screen Web App -->
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<link rel="apple-touch-startup-image" href="http://www.oneweekjob.com/wp-content/themes/foundation-prototype/mobile-load.png" />
+
+	<!-- Startup Image iPad Landscape (748x1024) -->
+	<link rel="apple-touch-startup-image" href="http://www.oneweekjob.com/wp-content/themes/foundation-prototype/images/devices/reverie-load-ipad-landscape.png" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape)" />
+	<!-- Startup Image iPad Portrait (768x1004) -->
+	<link rel="apple-touch-startup-image" href="http://www.oneweekjob.com/wp-content/themes/foundation-prototype/images/devices/reverie-load-ipad-portrait.png" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)" />
+	<!-- Startup Image iPhone (320x460) -->
+	<link rel="apple-touch-startup-image" href="http://www.oneweekjob.com/wp-content/themes/foundation-prototype/images/devices/reverie-load.png" media="screen and (max-device-width: 320px)" />
+	
+	<script type="text/javascript" src="http://use.typekit.com/mtx4gpq.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	
+	<!-- If jQuery already load, remove the line -->
+	<script src="http://www.oneweekjob.com/wp-content/themes/foundation-prototype/js/jquery.min.js"></script>
+	
+	<script src="http://www.oneweekjob.com/wp-content/themes/foundation-prototype/js/modernizr.foundation.js"></script>
+	<script src="http://www.oneweekjob.com/wp-content/themes/foundation-prototype/js/jquery.flexslider-min.js"></script>
+	<script src="http://www.oneweekjob.com/wp-content/themes/foundation-prototype/js/jquery.tweet.js"></script>
+  <script src="http://www.oneweekjob.com/wp-content/themes/foundation-prototype/js/jquery.dropmenu.js"></script>
+
+		<script type='text/javascript'>
+		//pass twitter id to tweet function
+	    var twitterUser = "oneweekjob";
+	    jQuery(function($){
+	        $(".tweet").tweet({
+	            username: twitterUser,
+	            join_text: "auto",
+	            avatar_size: 0,
+	            count: 1,
+	            template: "{text} {time}",
+	            loading_text: "loading tweets..."
+	        });
+	    });
+	</script> 
+
+	<script type="text/javascript">
+		jQuery(document).ready(function($) {
+			$('#menu-country-menu').menu();
+			$('.flexslider').flexslider({
+				animation: "slide"
+								  //,controlsContainer: ".flexslider-container"
+			});
+		});
+	</script>
+		<style type='text/css'>
+					.no-break br {
+						display: none !important;
+					}
+			</style>
+<!-- This site is optimized with the Yoast SEO plugin v2.3.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page not found - One Week Job" />
+<meta property="og:site_name" content="One Week Job" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.oneweekjob.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.1"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='google-calendar-events-qtip-css'  href='http://www.oneweekjob.com/wp-content/plugins/google-calendar-events/css/jquery.qtip.min.css?ver=2.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-calendar-events-public-css'  href='http://www.oneweekjob.com/wp-content/plugins/google-calendar-events/css/gce-style.css?ver=2.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-basic-css'  href='http://www.oneweekjob.com/wp-content/plugins/ubermenu/styles/basic.css?ver=2.0.1.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.oneweekjob.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.oneweekjob.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.oneweekjob.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.oneweekjob.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oneweekjob.com/wp-includes/wlwmanifest.xml" /> 
+<script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'wp.2c52506b-8ea7-441f-b87b-47a288674876'});var st_type='wordpress3.4.1';</script></head>
+
+<body class="error404">
+	<div class="top">
+		<div class="row">
+			<div class="eight columns">
+				<span class='st_fblike_buttons' st_title='' st_url='http://www.facebook.com/oneweekjobproject' displayText='fblike'></span>
+				<span class='st_twitter_buttons' st_title='' st_url='' displayText='share'></span>
+				<span class='st_sharethis_buttons' st_title='' st_url='' displayText='share'></span>
+			</div>
+			<div class="four columns">
+				<ul id="menu-country-menu" class="country-menu"><li id="menu-item-81" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-81"><a href="#">Country</a>
+<ul  class="sub-menu">
+	<li id="menu-item-5077" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-5077"><a href="http://www.oneweekjob.com/">Global</a></li>
+	<li id="menu-item-4952" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4952"><a href="/about-the-project/">Canada</a></li>
+	<li id="menu-item-4949" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4949"><a href="/usa/">USA</a></li>
+	<li id="menu-item-5219" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5219"><a href="http://www.oneweekjob.com/india">India</a></li>
+	<li id="menu-item-5151" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5151"><a href="/uk/">UK</a></li>
+	<li id="menu-item-151" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151"><a href="/australia/">Australia</a></li>
+</ul>
+</li>
+</ul>			</div>
+		</div>
+	</div>	
+	<!-- Start the main container -->
+	<div id="container" class="container" role="document">
+
+		<!-- Row for blog navigation -->
+		<div class="row">
+			<div class="panel">
+				<header class="row" role="banner">
+					<div class="eight columns">
+						<a href="http://www.oneweekjob.com" title="One Week Job"><img src="http://www.oneweekjob.com/wp-content/themes/foundation-prototype/images/logo-owj.png"></a>
+					</div>
+					<div class="four columns">
+						<div class="social-media row clearfix">
+								<a class="facebook" href="https://www.facebook.com/oneweekjobproject" target="_blank" ><span>F</span></a>
+								<a class="twitter" href="https://twitter.com/#!/oneweekjob" target="_blank" ><span>T</span></a>
+								<a class="flickr" href="http://www.flickr.com/photos/oneweekjobproject" target="_blank" ><span>F</span></a>
+								<a class="youtube" href="http://www.youtube.com/user/oneweekjob/featured" target="_blank" ><span>Yt</span></a>
+						</div>
+						<div class="row" role="search">
+							<form role="search" method="get" id="searchform" class="nice custom" action="http://www.oneweekjob.com/">
+	<input type="text" value="" name="s" id="s" class="input-text" placeholder="Search">
+	<input type="submit" id="searchsubmit" value="Search" class="white nice button radius">
+</form>
+						</div>
+					</div>
+				</header>
+				<nav class="row" role="navigation">
+					<div id="megaMenu" class="megaMenuContainer megaMenu-nojs megaFullWidth megaMenuHorizontal megaMenuOnHover wpmega-withjs wpmega-noconflict"><ul id="megaUber" class="megaMenu"><li id="menu-item-4903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children ss-nav-menu-item-0 ss-nav-menu-item-depth-0 ss-nav-menu-reg"><a href="http://www.oneweekjob.com/about-the-project/"><span class="wpmega-link-title">About</span></a>
+<ul class="sub-menu sub-menu-1">
+	<li id="menu-item-4911" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.oneweekjob.com/about-the-project/"><span class="wpmega-link-title">One Week Job Project</span></a></li>
+	<li id="menu-item-4913" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.oneweekjob.com/documentary/"><span class="wpmega-link-title">The Film</span></a></li>
+	<li id="menu-item-4912" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.oneweekjob.com/store/book/"><span class="wpmega-link-title">The Book</span></a></li>
+	<li id="menu-item-4910" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.oneweekjob.com/about-the-project/seans-bio/"><span class="wpmega-link-title">Sean Aiken</span></a></li>
+</ul>
+</li>
+<li id="menu-item-4900" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent ss-nav-menu-item-1 ss-nav-menu-item-depth-0 ss-nav-menu-reg"><a href="http://www.oneweekjob.com/blog/"><span class="wpmega-link-title">Blog</span></a></li>
+<li id="menu-item-4909" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children ss-nav-menu-item-2 ss-nav-menu-item-depth-0 ss-nav-menu-reg"><a href="http://www.oneweekjob.com/speaking/"><span class="wpmega-link-title">Events</span></a>
+<ul class="sub-menu sub-menu-1">
+	<li id="menu-item-4916" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.oneweekjob.com/speaking/"><span class="wpmega-link-title">Speaking</span></a></li>
+	<li id="menu-item-4917" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.oneweekjob.com/documentary/"><span class="wpmega-link-title">Film Screening</span></a></li>
+</ul>
+</li>
+<li id="menu-item-4904" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-3 ss-nav-menu-item-depth-0 ss-nav-menu-reg"><a href="http://www.oneweekjob.com/curriculum/"><span class="wpmega-link-title">Curriculum</span></a></li>
+<li id="menu-item-4905" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-4 ss-nav-menu-item-depth-0 ss-nav-menu-reg"><a href="http://www.oneweekjob.com/store/"><span class="wpmega-link-title">Store</span></a></li>
+<li id="menu-item-5150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children ss-nav-menu-item-5 ss-nav-menu-item-depth-0 ss-nav-menu-reg"><a href="http://www.oneweekjob.com/documentary/"><span class="wpmega-link-title">Watch</span></a>
+<ul class="sub-menu sub-menu-1">
+	<li id="menu-item-4915" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.oneweekjob.com/documentary/"><span class="wpmega-link-title">Documentary</span></a></li>
+	<li id="menu-item-4914" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.oneweekjob.com/watch/webisodes/"><span class="wpmega-link-title">Webisodes</span></a></li>
+	<li id="menu-item-4919" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.oneweekjob.com/press/"><span class="wpmega-link-title">Media Interviews</span></a></li>
+</ul>
+</li>
+<li id="menu-item-4907" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-6 ss-nav-menu-item-depth-0 ss-nav-menu-reg"><a href="http://www.oneweekjob.com/contact-2/"><span class="wpmega-link-title">Contact</span></a></li>
+</ul></div>				</nav>
+			</div>
+		</div>
+		<!-- Row for main content area -->
+		<div id="main" class="row">
+
+		<!-- Row for main content area -->
+		<div id="content" class="eight columns" role="main">
+	
+			<div class="post-box">
+				<h1>File Not Found</h1>
+				<div class="error">
+					<p class="bottom">The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.</p>
+				</div>
+				<p>Please try the following:</p>
+				<ul> 
+					<li>Check your spelling</li>
+					<li>Return to the <a href="http://www.oneweekjob.com">home page</a></li>
+					<li>Click the <a href="javascript:history.back()">Back</a> button</li>
+				</ul>
+			</div>
+
+		</div><!-- End Content row -->
+		
+		<aside id="sidebar" class="four columns" role="complementary">
+	<div class="sidebar-box">
+		<article id="text-6" class="widget widget_text"><div class="sidebar-section panel">			<div class="textwidget"><div class="facebookbox">
+<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Foneweekjobproject&amp;width=300&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=false&amp;appId=206103436112311" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:258px;" allowTransparency="true"></iframe>
+</div></div>
+		</div></article><article id="phpwidgettemplates_widget-2" class="widget widget_phpwidgettemplates_widget"><div class="sidebar-section panel"><h4>Recent Tweets</h4>					<div class="tweet"></div>
+										<a href="https://twitter.com/#!/oneweekjob" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @thoronas</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div></article>	</div>
+</aside><!-- /#sidebar -->		
+		</div><!-- End Main row -->
+	</div><!-- Container End -->		
+		<footer id="content-info" role="contentinfo">
+			<div class="row">
+				<div class="panel clearfix">
+					<div class="social-media row clearfix">
+						<a class="facebook" href="https://www.facebook.com/oneweekjobproject" target="_blank" ><span>F</span></a>
+						<a class="twitter" href="https://twitter.com/#!/oneweekjob" target="_blank" ><span>T</span></a>
+						<a class="flickr" href="http://www.flickr.com/photos/oneweekjobproject" target="_blank" ><span>F</span></a>
+						<a class="youtube" href="http://www.youtube.com/user/oneweekjob/featured" target="_blank" ><span>Yt</span></a>
+					</div>
+					<div class="row footer-menu">
+						<ul id="menu-footer-menu" class="twelve columns footer-nav"><li id="menu-item-4923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4923"><a href="http://www.oneweekjob.com/about-the-project/">About</a></li>
+<li id="menu-item-4920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4920"><a href="http://www.oneweekjob.com/curriculum/">Curriculum</a></li>
+<li id="menu-item-4921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4921"><a href="http://www.oneweekjob.com/speaking/">Speaking</a></li>
+<li id="menu-item-4922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4922"><a href="http://www.oneweekjob.com/store/">Store</a></li>
+</ul>					</div>
+<!--
+						<div class="row countries">
+													</div>
+-->
+					<div class="row">
+							<p class="copyright">&copy; 2017 Copyright One Week Jobs. All Rights Reserved. Design &amp; development by Shawn Johnston.</p>
+					</div>
+				</div>
+			</div>
+		</footer>
+			
+
+	
+	<!-- Included JS Files of Foundation -->
+	<script src="http://www.oneweekjob.com/wp-content/themes/foundation-prototype/js/foundation.js"></script>
+	<script src="http://www.oneweekjob.com/wp-content/themes/foundation-prototype/js/app.js"></script>
+	
+	<!-- Prompt IE 6 users to install Chrome Frame. Remove this if you want to support IE 6.
+	     chromium.org/developers/how-tos/chrome-frame-getting-started -->
+	<!--[if lt IE 7]>
+		<script defer src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+		<script defer>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+	<![endif]-->
+	
+	<script type='text/javascript' src='http://www.oneweekjob.com/wp-content/plugins/ubermenu/js/hoverIntent.js?ver=4.8.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uberMenuSettings = {"speed":"300","trigger":"hoverIntent","orientation":"horizontal","transition":"slide","hoverInterval":"20","hoverTimeout":"400","removeConflicts":"on","autoAlign":"off","noconflict":"off","fullWidthSubs":"off","androidClick":"off","loadGoogleMaps":"off"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.oneweekjob.com/wp-content/plugins/ubermenu/js/ubermenu.min.js?ver=4.8.1'></script>
+<script type='text/javascript' src='http://www.oneweekjob.com/wp-content/plugins/google-calendar-events/js/jquery.qtip.min.js?ver=2.3.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gce = {"ajaxurl":"http:\/\/www.oneweekjob.com\/wp-admin\/admin-ajax.php","loadingText":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.oneweekjob.com/wp-content/plugins/google-calendar-events/js/gce-script.js?ver=2.3.2'></script>
+<script type='text/javascript' src='http://www.oneweekjob.com/wp-content/plugins/google-calendar-events/js/imagesloaded.pkgd.min.js?ver=3.1.8'></script>
+<script type='text/javascript' src='http://www.oneweekjob.com/wp-includes/js/wp-embed.min.js?ver=4.8.1'></script>
+</body>
+</html>

